@@ -1,1 +1,2 @@
-uname prints basic information about the operating system and system hardware
+#!/bin/bash
+"uname prints basic information about the operating system and system hardware"
